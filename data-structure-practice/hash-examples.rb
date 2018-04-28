@@ -2,7 +2,7 @@
 
 # key-value data structure 
 # arrays are indexed with integers but sometimes we want a different kind of index
-# a hash is a bit like a js object, it is a colelction of key-value pairs
+# a hash is a bit like a js object, it is a collection of key-value pairs
 # values can be strings, numbers, booleans, arrays, etc.
 # let's create a hash for Will & Kate's family:
 hash_royfam = {
