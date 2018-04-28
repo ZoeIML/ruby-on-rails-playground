@@ -4,6 +4,18 @@ puts "Hello Ruby"
 # DATA TYPES:
 # Ruby sees pretty much everything as an object
 
+# Booleans:
+# Are pretty much the same as in js:
+
+true_boolean = true
+false_boolean = false
+
+# Symbols:
+# I haven't delved far into these yet as I am focusing on arrays and accessing different data structures
+a_symbol = :my_symbol
+
+# There are also floats which I haven't had a chance to play around with yet
+
 # Numbers: 
 # In Ruby you don't need to decalre a variable, it just has to sppear in an assignment before
 # it is used in any other expression

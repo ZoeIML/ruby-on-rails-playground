@@ -22,7 +22,7 @@ else
     puts "ten is equal to any_number"
 end 
 
-For looping:
+# For looping:
 num = 1
 
 for num in 1...10
