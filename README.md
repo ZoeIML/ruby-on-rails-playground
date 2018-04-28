@@ -11,11 +11,11 @@ Get to know Ruby in order to give a presentation that focuses on the differences
 
 Using the console to demonstrate the above
 
-# Folder Key:
-- `blotter` A folder that acts as a blotter / notebook to play with different aspects of Ruby.
-- `-practice` Folders being used to practice each aspect of Ruby before putting them together. 
-- `practice-presentation` Folder containing run-throughs of the code used for the presentation - time/date of run through - included
-- `presentation` Folder containing final run-through template and blank file to present from 
+# Folder Contents:
+- `blotter` blotter / notebook to play with different aspects of Ruby.
+- `-practice` used to practice aspects of Ruby
+- `practice-presentation` run-throughs of code to be used in the presentation
+- `presentation` final run-through template, code demo outline slide, blank file for demo
 
 # Future:
 Keep using this repo as a playground for Ruby
