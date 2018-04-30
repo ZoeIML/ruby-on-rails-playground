@@ -18,5 +18,5 @@ Using the console to demonstrate the above
 - `presentation` final run-through template, code demo outline slide, blank file for demo
 
 # Future:
-Keep using this repo as a playground for Ruby
-Next: functions!
+- Keep using this repo as a playground for Ruby
+- Next: functions!
