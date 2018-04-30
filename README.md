@@ -19,3 +19,4 @@ Using the console to demonstrate the above
 
 # Future:
 Keep using this repo as a playground for Ruby
+Next: functions!
