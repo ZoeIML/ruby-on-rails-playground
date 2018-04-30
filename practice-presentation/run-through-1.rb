@@ -30,9 +30,9 @@ enemies[3] = "Death Eaters"
 
 # kraken = enemies.pop
 
-for enemy in enemies
-    puts "Oh no, it's #{enemy}, RUNNNNN!"
-end
+# for enemy in enemies
+#     puts "Oh no, it's #{enemy}, RUNNNNN!"
+# end
 
 # Hash examples
 # explain Hash, make hash obj, call parts 
@@ -50,13 +50,15 @@ hash_royfam = {
     "oldest-daughter" => "Charlotte"
 }
 
-# puts "There are #{hash_royfam['number']} family members."
-# puts "One of the children is called #{hash_royfam['children'][0]}"
+puts "the daughter is #{hash_royfam['children'][1]}"
+
+puts "There are #{hash_royfam['number']} family members."
+puts "One of the children is called #{hash_royfam['children'][0]}"
 
 hash_royfam['youngest-son'] = "Louis"
 # puts "The new baby is little #{hash_royfam['youngest-son']}"
 
-hash_royfam['children'][2] = "Louis"
+# hash_royfam['children'][2] = "Louis"
 # puts "The children are #{hash_royfam['children']}"
 
 hash_royfam['number'] = 5
@@ -73,6 +75,6 @@ hash_hp = {
     "Pansy Parkinson" => "Slytherin"
 }
 
-hash_hp.each do |character, house|
-    puts "#{character} was in #{house}"
-end
+# hash_hp.each do |character, house|
+#     puts "#{character} was in #{house}"
+# end
